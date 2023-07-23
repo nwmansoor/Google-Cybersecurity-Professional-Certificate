@@ -1,0 +1,21 @@
+THINGS THAT WERE DONE IN LINUX LABS:
+
+Confirm APT is installed in Bash
+Install Suricata with APT
+Uninstall Suricata with APT
+Install tcpdump with APT
+Reinstall Suricata with APT
+
+install applications,
+uninstall applications, and
+list installed applications.
+Permissions
+
+Check permissions for files in a directory
+Check for incorrect file permissions and change permissions as needed
+Remove unauthorized access to a directory
+
+Add a new employee
+Change ownership of a file
+Add the new employee to a new group
+Delete the employee from the system
