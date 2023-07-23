@@ -1,0 +1,54 @@
+THINGS THAT WERE DONE IN SQL: MariaDB, chinookDB
+
+Return information on employee devices
+Examine login attempts
+Sort the data returned from a query
+
+Return information on machines and their operating systems
+Filter for machines with a specific operating system
+Filter for employees in specific departments
+Filter for employees who use specific machines
+Filter for specific employees
+apply the WHERE clause to filter what a SQL query returns and
+use the LIKE operator to filter for patterns.
+
+Filter for login attempts made after a certain date
+Filter for login attempts made in a certain date range
+Filter for login attempts made at a certain time
+Filter for login attempts by ID
+the WHERE keyword
+the BETWEEN and AND operators, and
+operators for working with numeric or date and time data types (for example, =, >, >=)
+
+Filter for login attempts that occurred after hours
+Filter for login attempts on specific dates
+Filter for login attempts from specific locations
+Filter for information on employees in specific departments
+Filter for information on employees not in a specific department
+run SQL queries to retrieve information from a database and
+apply AND, OR, and NOT operators to filter SQL queries.
+
+Use an inner join to find information on employees and their machines
+Use a left join and right join to find information on employees and their machines
+Use an inner join to find information on employees and their login attempts
+INNER JOIN,
+LEFT JOIN, and
+RIGHT JOIN.
+
+List the contents of a directory
+Read the contents of files
+Use Linux commands to revert a classical cipher back to plaintext
+Decrypt an encrypted file and restore the file to its original state
+tr command
+openssl command
+list hidden files,
+decrypt a Caesar cipher, and
+decrypt an encrypted file.
+
+List the contents of the home directory
+Compare the plain text of the two files presented for hashing
+Compute the sha256sum hash of the two separate files
+Compare the hashes provided to identify the differences
+compute hashes using sha256sum,
+display hashes using the cat command, and
+compare hashes using the cmp command.
