@@ -1,0 +1,26 @@
+THINGS DONE IN PYTHON LABS:
+
+Learn about the capabilities of a notebook environment
+Write code comments in Python
+Display strings with the print() function
+
+Define and call a function that displays an alert about a potential security issue
+Define and call a function that iterates through a list of approved usernames and converts it into a string
+Write code that determines if a user’s operating system requires an update
+Write code that determines if login attempts were made by approved users and if login attempts occurred during organization hours
+
+Create a simple loop related to connecting to a network
+Utilize a for loop to investigate login activity by comparing a list of allowed IP addresses with a list of IP addresses from which users have tried to log in
+Use a while loop to generate unique employee IDs by iterating through numbers
+
+Use the str() and len() functions and to concatenate string data related to employee IDs
+Use bracket notation to extract components of a device ID
+Use bracket notation and the .index() method to extract components of a URL
+
+Import and store a text file as a string
+Convert the text file into a list using the string .split() method
+Append information to the text file
+Create another text file
+
+Import a text file containing an allow list and store it as a string
+Develop a parsing algorithm that removes IP addresses that no longer have access to restricted information from the allow list
