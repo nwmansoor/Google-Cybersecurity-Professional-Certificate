@@ -1,7 +1,7 @@
 # Google-Cybersecurity-Professional-Certificate
 
 # Course Certificates Completed:
-Foundations of Cybersecurity
+Foundations of Cybersecurity\n
 Play It Safe: Manage Security Risks
 Connect and Protect: Networks and NetworkSecurity
 Tools of the Trade: Linux and SQL
